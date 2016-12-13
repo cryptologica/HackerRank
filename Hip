@@ -3,8 +3,7 @@
 from copy import deepcopy
 
 '''
-Created on Dec 19, 2012
-
+https://www.hackerrank.com/challenges/hip
 @author: Sean & JT
 '''
 
