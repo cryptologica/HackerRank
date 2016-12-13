@@ -1,8 +1,6 @@
-//import java.io.*;
+	// https://www.hackerrank.com/challenges/tic-tac-toe
+	
 	import java.util.*;
-	//import java.text.*;
-	//import java.math.*;
-	//import java.util.regex.*;
 
 	public class Solution { //This must change to "Solution"
 
